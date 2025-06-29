@@ -9,6 +9,9 @@
     <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
     <AndroidPackageFormat>apk</AndroidPackageFormat>
     <AndroidEnableProfiledAot>false</AndroidEnableProfiledAot>
+    
+    <!-- 指定 Android SDK 路径 (可选，如果环境变量未设置) -->
+    <AndroidSdkDirectory>D:\AndroidSDK</AndroidSdkDirectory>
   </PropertyGroup>
 
   <ItemGroup>
